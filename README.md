@@ -1,5 +1,5 @@
 # Febreze ScentStories
- This repository tracks a simple attempt at reverse engineering the Febreze ScentStories, specifically its Symphony board from 2004 (2004-05-25). I am curious about reverse engineering the device, partly to miniaturize it further so that more people can look at how others have engineered scent technologies through history.
+ This repository tracks a simple attempt at reverse engineering the Febreze ScentStories, specifically its Symphony board from 2004 (2004-05-25). I am curious about reverse engineering the device so that more people can look at how others have engineered scent technologies throughout history.
 
  ## Historical background
 The Febreze ScentStories was a 2004 scent technology marketed as a home fragrance product. Media likened the device to a "CD player for smells," which provided "music for the nose." The device is loaded with a disc that contains five scent pockets (each with a heat-sensitive fragrance gel), and each odor exudes for roughly 30 minutes. Under the disc are a thermoelectric element (Peltier element) and thermistor to heat the scent pocket directly above, increasing the vaporized odorants in the pocket. The device had a fan blow air over the pocket to distribute the odor into the room. Users could adjust the odor intensity by raising or lowering the heat and could skip a scent pocket.
