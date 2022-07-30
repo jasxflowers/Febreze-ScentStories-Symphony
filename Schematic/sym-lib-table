@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Symphony")(type "Legacy")(uri "${KIPRJMOD}/Symphony.lib")(options "")(descr ""))
+  (lib (name "ScentStories-Symphony-rescue")(type "Legacy")(uri "${KIPRJMOD}/ScentStories Symphony-rescue.lib")(options "")(descr ""))
+)
